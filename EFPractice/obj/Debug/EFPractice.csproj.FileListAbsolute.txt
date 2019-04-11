@@ -1,0 +1,14 @@
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\bin\Debug\Library.mdf
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\bin\Debug\Library_log.ldf
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\bin\Debug\EFPractice.exe.config
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\bin\Debug\EFPractice.exe
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\bin\Debug\EFPractice.pdb
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\bin\Debug\EntityFramework.dll
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\bin\Debug\EntityFramework.xml
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\obj\Debug\EFPractice.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\obj\Debug\EFPractice.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\obj\Debug\EFPractice.csproj.CopyComplete
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\obj\Debug\EFPractice.exe
+C:\Users\ШадикьянР\source\repos\EFPractice\EFPractice\obj\Debug\EFPractice.pdb
